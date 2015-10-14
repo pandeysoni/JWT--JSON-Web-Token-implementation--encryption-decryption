@@ -6,7 +6,7 @@ Run the following command in root directory of an app in command prompt.
 
 node server
 
-You can see the encrypted text and decrypted text
+You can see the encrypted text and decrypted text in console
 
 You can use crypto technique, let's have a look
 
