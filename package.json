@@ -1,0 +1,16 @@
+{
+  "name": "jwt-encryption-decryption",
+  "description": "jwt encryption decrytion",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^5.4.0"
+  },
+  "author": {
+    "name": "sonipandey",
+    "email": "sonipandey.71@gmail.com"
+  }
+}
